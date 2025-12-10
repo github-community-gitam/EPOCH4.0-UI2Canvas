@@ -1,7 +1,7 @@
-UI2Canvas – Create Animations (3)
+**UI2Canvas – Create Animations (3)**
 UI2Canvas – Create Animations is a lightweight system that converts UI elements into smooth, Canvas-based animations. It focuses on timeline animations, state-driven animations, and interaction-based transitions while keeping the API simple and flexible.
 
-Features
+**Features**
 
 Timeline animations with keyframes
 
@@ -19,7 +19,7 @@ What This Module Does
 
 This module helps developers convert UI components into animated visuals rendered on HTML Canvas. It abstracts the animation lifecycle, state transitions, easing functions, and event binding into a unified system.
 
-Use Cases
+**Use Cases**
 
 Animated UI elements
 
@@ -33,7 +33,7 @@ Timeline-driven sequences
 
 Motion graphics for web apps
 
-Project Structure (Suggested)
+**Project Structure**
 src/
 core/
 objects/
